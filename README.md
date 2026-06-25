@@ -1,2 +1,2 @@
 # js.hindi-rajyadav
-Acode repo for js series with hitesh chaudhary
+A code repo for js series with hitesh chaudhary
